@@ -4,8 +4,8 @@ Leia  uma velocidade em km/h (quilômetros por hora) e apresente-a convertida em
 km/h e M em m/s.
 """
 
-kilometersPerHour = float(input("Enter a speed in kilometers per hour: "))
+kilometers_Per_Hour = float(input("Enter a speed in kilometers per hour: "))
 
-metersPerSecond = kilometersPerHour / 3.6
+meters_Per_Second = kilometers_Per_Hour / 3.6
 
-print(f'The speed in meters per second is {metersPerSecond}')
+print(f'The speed in meters per second is {meters_Per_Second}')

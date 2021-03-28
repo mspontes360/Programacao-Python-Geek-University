@@ -8,4 +8,4 @@ kilograms = float(input("Enter a mass value in kilograms: "))
 
 pounds = kilograms / 0.45
 
-print(f'The volume in liters is: {pounds}')
+print(f'The mass in pounds is: {pounds}')
